@@ -21,7 +21,7 @@ Clona el repositorio
 
 # Backend
 * cd server
-* cp .env (Coloca la informacion en el archivo en classworm :3)
+* cp .env (Crea solo el archivo y coloca la informacion que esta en el archivo en classworm :3)
 * npm install (Instalar node modules)
 * npm run dev  (Levantar proyecto)
 
